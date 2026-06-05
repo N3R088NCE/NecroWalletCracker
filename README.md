@@ -4,6 +4,15 @@
 
 Ultra-modern glassmorphism interface with premium animations, neon visuals, and hacker-inspired aesthetics.
 
+
+## 💬 Join Our Telegram
+
+<div align="center">
+
+<a href="https://t.me/N3CR0MANC">
+  <img src="https://img.shields.io/badge/Join-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>
+
 </div>
 
 ---
